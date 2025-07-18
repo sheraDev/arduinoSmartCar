@@ -19,7 +19,7 @@
   
 ### Control Applications:
 
-- Using a keyboard through a Python script (script.py)
+- Using a keyboard through a Python TUI script (script.py)
   <div>
   <img width="600" height="600" alt="car" src="https://github.com/user-attachments/assets/a7d1afeb-aa3e-46a5-bb7e-08aa703e908d" style="border-radius: 15px;" />
   </div> </br>
